@@ -1,4 +1,5 @@
-Dream Visualizer
+*Dream Visualizer*
+
 Dream Visualizer is a Streamlit-based web application that allows Indian students to visualize themselves achieving their dream goals. By uploading a photo and specifying a dream (e.g., "I want to be an astronaut"), the app uses OpenAI's GPT-4 Vision and DALL·E 3 to generate a visually striking, emotionally resonant portrait of the user having realized their dream, grounded in an Indian cultural context.
 The app is designed to inspire incoming college students by providing a personalized, aspirational vision of their future success.
 Features
@@ -22,8 +23,8 @@ Installation
 Follow these steps to set up the project locally:
 
 Clone the Repository (or download the code):
-git clone https://github.com//dream-visualizer.git
-cd dream-visualizer
+[git clone https://github.com//dream-visualizer.git
+](https://github.com/NikhilDendeti/image_to_dream.git)cd dream-visualizer
 
 
 Create a Virtual Environment (recommended):
